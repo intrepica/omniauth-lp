@@ -1,0 +1,2 @@
+= Omniauth Literacy Planet Strategy
+
