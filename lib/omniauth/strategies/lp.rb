@@ -19,11 +19,11 @@ module OmniAuth
             # providers.
 
             uid do
-                @raw_info['uid']
+                raw_info['uid']
             end
 
             info do
-                @raw_info
+                raw_info
             end
 
             def raw_info
